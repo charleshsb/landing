@@ -1,0 +1,17 @@
+.footer{
+  background-color: rgb(50, 50, 50);
+  text-align: center;
+  color: white;
+  padding: 20px;
+}
+
+.footer a{
+  text-decoration: none;
+  color: white;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 10px;
+  font-size: 2em;
+}
